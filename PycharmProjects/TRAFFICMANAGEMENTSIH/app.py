@@ -9,7 +9,7 @@ st.title("🚦 Traffic Dashboard")
 
 # some places in bhopal
 locs = {
-    "LALGHATI": [23.2599, 77.4126], "KAROND": [23.2728, 77.4579],
+    "LALGHATI": [23.2599, 77.4126], "GANDHI NAGAR": [23.2728, 77.4579],
     "BAIRAGARH": [23.2156, 77.3539], "INDRAPURI": [23.2156, 77.3825]
 }
 
